@@ -51,6 +51,7 @@ corrvect
 correctedcode
 
 # DECODING OUTPUT:
+<img width="473" height="322" alt="image" src="https://github.com/user-attachments/assets/d52390c4-a2ad-48e5-bac3-fff8b1b0d537" />
 
 # RESULT:
 Thus encoding and decoding of block codes are performed using MATLAB.
